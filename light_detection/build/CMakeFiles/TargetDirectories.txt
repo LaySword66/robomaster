@@ -1,3 +1,0 @@
-/home/logiyax/workshop/recognition/build/CMakeFiles/try.dir
-/home/logiyax/workshop/recognition/build/CMakeFiles/edit_cache.dir
-/home/logiyax/workshop/recognition/build/CMakeFiles/rebuild_cache.dir
